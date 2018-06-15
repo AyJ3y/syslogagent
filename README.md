@@ -1,5 +1,8 @@
 # SyslogAgent
 
+## *Note* _This repository is only available for historical reasons and the application is not maintained._
+Feel free to fork the application and use it according to the [LICENSE](LICENSE). If you are interested in taking over the project and maintain it, file an issue on [Github](https://github.com/op5/syslogagent).
+
 SyslogAgent is a Windows add-on, allowing Windows EventLog events as well as other Windows applications logs to be sent to a syslog server. SyslogAgent is installed as a transparant service on Windows.
 
 The SyslogAgent is a derivate of NTSyslog by SaberNet.net, and is shipped under the GNU license. Therefore, the software is freely downloadable and free to use.
